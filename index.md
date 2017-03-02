@@ -7,7 +7,7 @@
 ### Projects to start with (someday)
 
 ### Me
-![me](http://github.com/DL6DBN/dl6dbn.github.io/blob/master/images/dl6dbn-pixed.jpg)
+{% include figure.html filename="http://github.com/DL6DBN/dl6dbn.github.io/blob/master/images/dl6dbn-pixed.jpg" caption="That's me!" %})
 
 **CallMe:**
 Frank or 6DBN (six dee bee en)
