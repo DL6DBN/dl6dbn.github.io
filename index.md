@@ -13,7 +13,7 @@
 **None** so far
 
 ### Me
-(http://github.com/DL6DBN/dl6dbn.github.io/blob/master/images/dl6dbn-pixed.jpg)
+![That's me](https://github.com/DL6DBN/dl6dbn.github.io/blob/master/images/dl6dbn-pixed.jpg)
 
 **CallMe:**
 Frank or 6DBN (six dee bee en)
