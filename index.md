@@ -13,7 +13,7 @@
 **None** so far
 
 ### Me
-![That's me](http://github.com/DL6DBN/dl6dbn.github.io/blob/master/images/dl6dbn-pixed.jpg)
+![That's me](https://raw.githubusercontent.com/DL6DBN/dl6dbn.github.io/master/images/dl6dbn-pixed.jpg)
 
 **CallMe:**
 Frank or 6DBN (six dee bee en)
@@ -29,4 +29,4 @@ Twitter [@DL6DBN](https://twitter.com/DL6DBN)
 
 ### Support or Contact
 You want to contact me?
-Try dl6dbn@googlemail.com
+Try [dl6dbn@googlemail.com](mailto:dl6dbn@googlemail.com)
