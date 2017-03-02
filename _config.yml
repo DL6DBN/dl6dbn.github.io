@@ -1,0 +1,8 @@
+title: DL6DBN's OHSP
+description: The home for the Open Hardware and Software Projects on my mind and hands
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
