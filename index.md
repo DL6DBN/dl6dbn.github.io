@@ -1,6 +1,6 @@
 ## Welcome to DL6DBN's Open Hard and Software Pages.
 
-### Projects in progress
+### Projects in progress or finished
 
 **[FOXAVR](https://github.com/DL6DBN/FOXAVR):** An Atmel AVR based ARDF beacon controller, coded with BASCOM-AVR.
 
@@ -8,9 +8,9 @@
 
 **[ScratchX-Projects](https://github.com/DL6DBN/ScratchX-Projects">ScratchX-Projects):** Container for my ScratchX Projects (mostly experimental themselves).
 
-### Projects to start with (someday)
+### Projects to start with (soon or someday)
 
-**None** so far
+**[BirdBox](https://github.com/DL6DBN/BirdBox):** My version of a RaspberryPi Bird Box
 
 ### Me
 ![](https://raw.githubusercontent.com/DL6DBN/dl6dbn.github.io/master/images/dl6dbn-pixed.jpg)
