@@ -19,7 +19,7 @@ Family, Engineer, Technical Communicator
 Scratcher, AppInventor, TouchDeveloper, Radio Orienteerer, Radio Amateur, Stargazer, HaSi
 
 **InTime:**
-Skype dl6dbn, Twitter @DL6DBN
+Twitter @DL6DBN
 
 ### Support or Contact
 You want to contact me?
