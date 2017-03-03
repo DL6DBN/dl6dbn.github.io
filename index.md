@@ -12,7 +12,7 @@
 
 ### Projects to start with (soon, someday or never)
 
-**Magic Mirror:** Mirror or POI with Raspberry Pi displaying selected information @home
+**Magic Mirror:** Mirror or POI with Raspberry Pi displaying selected information at home
 
 ### Me
 ![](images/dl6dbn-pixed.jpg)
