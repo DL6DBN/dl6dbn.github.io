@@ -2,18 +2,20 @@
 
 ### Projects in progress or finished
 
-**[FOXAVR](https://github.com/DL6DBN/FOXAVR):** An Atmel AVR based ARDF beacon controller, coded with BASCOM-AVR.
+**[BirdBox](https://github.com/DL6DBN/BirdBox):** My version of a RaspberryPi Bird Box
 
-**[ScratchX-Sandbox](https://github.com/DL6DBN/ScratchX-Sandbox):** My playground to experiment with ScratchX Javascript extensions.
+**[FOXAVR](https://github.com/DL6DBN/FOXAVR):** An Atmel AVR based ARDF beacon controller, coded with BASCOM-AVR.
 
 **[ScratchX-Projects](https://github.com/DL6DBN/ScratchX-Projects">ScratchX-Projects):** Container for my ScratchX Projects (mostly experimental themselves).
 
-### Projects to start with (soon or someday)
+**[ScratchX-Sandbox](https://github.com/DL6DBN/ScratchX-Sandbox):** My playground to experiment with ScratchX Javascript extensions.
 
-**[BirdBox](https://github.com/DL6DBN/BirdBox):** My version of a RaspberryPi Bird Box
+### Projects to start with (soon, someday or never)
+
+**Magic Mirror:** Mirror or POI with Raspberry Pi displaying selected information @home
 
 ### Me
-![](https://raw.githubusercontent.com/DL6DBN/dl6dbn.github.io/master/images/dl6dbn-pixed.jpg)
+![](images/dl6dbn-pixed.jpg)
 
 **CallMe:**
 Frank or 6DBN (six dee bee en)
