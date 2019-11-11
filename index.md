@@ -2,6 +2,8 @@
 
 ### Projects in progress or finished
 
+**[AstroPi](https://github.com/DL6DBN/AstroPi):** My version of an AstroPi (the Pis flying on the ISS)
+
 **[BirdBox](https://github.com/DL6DBN/BirdBox):** My version of a RaspberryPi Bird Box
 
 **[FOXAVR](https://github.com/DL6DBN/FOXAVR):** An Atmel AVR based ARDF beacon controller, coded with BASCOM-AVR.
@@ -18,16 +20,13 @@
 ![](images/dl6dbn-pixed.jpg)
 
 **CallMe:**
-Frank or 6DBN (six dee bee en)
+Frank, 6DBN (six dee bee en) or fr4b3r1x
 
 **FullTime:**
 Family, Engineer, Technical Communicator
 
 **SpareTime:**
-Scratcher, AppInventor, (Radio) Orienteerer, Radio Amateur, Stargazer, HaSi
-
-**InTime:**
-Twitter [@DL6DBN](https://twitter.com/DL6DBN)
+Scratcher, AppInventor, (Radio) Orienteerer, Radio Amateur, Stargazer
 
 ### Support or Contact
 You want to contact me?
