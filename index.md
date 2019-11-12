@@ -8,7 +8,7 @@
 
 **[FOXAVR](https://github.com/DL6DBN/FOXAVR):** An Atmel AVR based ARDF beacon controller, coded with BASCOM-AVR.
 
-**[ScratchX-Projects](https://github.com/DL6DBN/ScratchX-Projects">ScratchX-Projects):** Container for my ScratchX Projects (mostly experimental themselves).
+**[ScratchX-Projects](https://github.com/DL6DBN/ScratchX-Projects):** Container for my ScratchX Projects (mostly experimental themselves).
 
 **[ScratchX-Sandbox](https://github.com/DL6DBN/ScratchX-Sandbox):** My playground to experiment with ScratchX Javascript extensions.
 
